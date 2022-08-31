@@ -1,1 +1,1 @@
-Learning git at alx
+Learning awesome tool called git
